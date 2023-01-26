@@ -684,7 +684,7 @@ p {
     color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 700;
 }
 
@@ -778,7 +778,7 @@ cite {
 
 .btn-atomic-tangerine {
     background: #ff6e40;
-    color: #f5f0e1!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {

@@ -649,6 +649,7 @@ a {
     color: #575757!important;
 }
 
+
 .container {
     max-width: 1000px;
 }
@@ -672,7 +673,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {

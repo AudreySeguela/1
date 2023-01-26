@@ -87,7 +87,7 @@ a:hover {
     top: 0;
     bottom: 0;
     left: 0;
-    right: 0;
+    right: 0;   
 }
 
 .b-parallax {
@@ -650,11 +650,14 @@ a {
 }
 
 h7 {
-    font-size: 20px;
+    font-size: 25px;
     display: flex;
-    justify-content: center;   
+    justify-content: center;
+    color: #ffc13b; 
+    background-color: rgba(99, 139, 165, 0.7);  
 }
 
+h1, 
 
 .container {
     max-width: 1000px;
@@ -757,7 +760,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(99, 139, 165, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -775,15 +778,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #ff6e40;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #ffc13b!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #ff6e40;
     color: #FFFFFF!important;
 }
 

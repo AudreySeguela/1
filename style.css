@@ -95,11 +95,11 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: rgba(182, 176, 176, 0.733);
 }
 
 .d-bloc button:hover {
-    color: rgba(255, 255, 255, .9);
+    color: rgb(0, 0, 0);
 }
 
 .d-bloc .icon-round,
@@ -130,7 +130,7 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: rgb(7, 193, 250);
 }
 
 .d-bloc .navbar-toggle .icon-bar {

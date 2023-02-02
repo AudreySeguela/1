@@ -903,6 +903,11 @@ cite {
         padding-left: 10px!important;
         padding-right: 10px!important;
     }
+
+    h7 {
+        font-size: 17px;
+        text-align: center;
+    }
     .b-parallax {
         background-attachment: scroll;
     }

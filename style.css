@@ -1053,7 +1053,9 @@ cite {
     font-weight: 600;
   }
 
-  
+ .lien-hidden {
+    visibility: hidden;
+ }
 
   
   

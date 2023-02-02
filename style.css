@@ -681,7 +681,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: #000000!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 20px;
@@ -1038,3 +1038,25 @@ cite {
         text-align: center;
     }
 }
+
+
+  /*Formulaire*/
+  form div {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    min-height: 83px;
+    margin-top: 25px;
+  }
+
+  form div > label {
+    font-weight: 600;
+  }
+
+  
+
+  
+  
+ 
+ 
+  

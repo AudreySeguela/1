@@ -1406,7 +1406,7 @@ textarea {
 }
 
 a {
-    color: #337ab7;
+    
     text-decoration: none
 }
 
@@ -1436,7 +1436,7 @@ img {
 .thumbnail a>img,
 .thumbnail>img {
     display: block;
-    max-width: 100%;
+    max-width: 70%;
     height: auto;
     margin-right: auto;
     margin-left:auto;
@@ -1621,6 +1621,7 @@ h5 {
 .h6,
 h6 {
     font-size: 15px
+    
 }
 
 p {

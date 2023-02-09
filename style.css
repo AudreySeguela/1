@@ -1,3 +1,4 @@
+ 
 body {
     margin: 0;
     padding: 0;
@@ -16,6 +17,10 @@ button {
 a:hover {
     text-decoration: none;
     cursor: pointer;
+}
+
+h6 {
+    font-weight: 600;
 }
 
 #page-loading-blocs-notifaction {
@@ -344,6 +349,12 @@ a:hover {
 }
 
 @media (min-width: 768px) {
+    .img-responsive {
+        max-width: 95%;
+    }
+
+
+
     .site-navigation {
         position: absolute;
         top: 50%;
@@ -631,7 +642,7 @@ label,
 .btn
 {
     font-family: "helvetica";
-    font-weight: 400;
+    
     color: black!important;
 }
 
@@ -690,8 +701,10 @@ p {
 }
 
 .social {
-    max-width: 400px;
-    margin: auto auto auto auto;
+    max-width: 100%;
+    margin: 20px 10px;
+    display: flex;
+    justify-content: space-around;
 }
 
 h2 {
@@ -713,7 +726,9 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #ffc13b!important;
+    text-align: center;
+   
 }
 
 h4 {
@@ -730,6 +745,11 @@ cite {
     color: black;
     text-align: center;
 }
+
+.text-justify {
+    text-align: justify;
+}
+
 
 .icons {
     margin-bottom: 14px;
@@ -905,6 +925,18 @@ cite {
         padding-right: 10px!important;
     }
 
+    h1 {
+        text-align: center;
+    }
+
+    h2 {
+        text-align: justify;
+    }
+
+    h6 {
+        text-align: center;
+    }
+
     h7 {
         font-size: 17px;
         text-align: center;
@@ -1037,6 +1069,11 @@ cite {
         padding-left: 0;
         padding-right: 0;
     }
+
+    .social {
+        flex-direction: column;
+        margin: 0;
+    }
 }
 
 @media (max-width: 767px) {
@@ -1062,9 +1099,3 @@ cite {
  .lien-hidden {
     visibility: hidden;
  }
-
-  
-  
- 
- 
-  

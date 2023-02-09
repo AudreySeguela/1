@@ -353,8 +353,7 @@ h6 {
         max-width: 95%;
     }
 
-
-
+    
     .site-navigation {
         position: absolute;
         top: 50%;
@@ -790,7 +789,7 @@ cite {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #ff6e40;
+    background-color: #992400;
 }
 
 .tc-white {
@@ -798,7 +797,7 @@ cite {
 }
 
 .btn-atomic-tangerine {
-    background: #ff6e40;
+    background: #ff5e2d;
     color: #000000!important;
 }
 
@@ -941,6 +940,11 @@ cite {
         font-size: 17px;
         text-align: center;
     }
+
+    .tight-width-whitespace {
+        text-align: justify;
+    }
+
     .b-parallax {
         background-attachment: scroll;
     }

@@ -876,7 +876,8 @@ cite {
         max-width: 100%
     }
     .tight-width-whitespace { 
-        text-align: justify;
+        text-align: center;
+        font-size: 30px;
     }
     .text-justify {
         font-size: 18px;
@@ -895,6 +896,7 @@ cite {
 
     .hero-bloc-text {
         text-align: center;
+        font-size: 52px;
     }
     .col-sm-6 p {
         text-align: center;

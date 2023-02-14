@@ -1615,7 +1615,8 @@ h4 {
 
 .h5,
 h5 {
-    font-size: 20px
+    font-size: 24px;
+    font-weight: bolder
 }
 
 .h6,
@@ -1863,7 +1864,8 @@ blockquote {
     padding: 10px 20px;
     margin: 0 0 20px;
     font-size: 17.5px;
-    border-left: 5px solid #eee
+    border-left: 5px solid #eee;
+    font-style: italic
 }
 
 blockquote ol:last-child,

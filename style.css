@@ -16,6 +16,7 @@ button {
 a:hover {
     text-decoration: none;
     cursor: pointer;
+    color: #ffc13b!important;
 }
 
 h6 {
@@ -153,7 +154,7 @@ h2 {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgb(7, 193, 250);
+    color: #ffc13b;
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -582,6 +583,7 @@ a[data-lightbox]:hover img {
 #lightbox-modal .modal-dialog img {
     max-height: 90vh;
     margin: 0 auto;
+    width: 45%;
 }
 
 .lightbox-caption {
@@ -591,7 +593,7 @@ a[data-lightbox]:hover img {
     position: absolute;
     left: 15px;
     right: 15px;
-    bottom: 5px;
+    text-align: center;
 }
 
 .close-lightbox {
@@ -886,7 +888,7 @@ cite {
         font-size: 30px;
     }
     .text-justify {
-        font-size: 18px;
+        font-size: 20px;
     }
     
     .text-center {
@@ -907,6 +909,19 @@ cite {
     .col-sm-6 p {
         text-align: justify;
     }
+
+    h5 {
+        font-size: 22px;
+    }
+
+    h6 {
+        font-size: 18px;
+    }
+
+    .yellow {
+        line-height: 2;
+    }
+        
 
 }
 
@@ -977,10 +992,19 @@ cite {
         text-align: justify;
     }
 
+    h5 {
+        font-size: 20px;
+    }
+
     h6 {
         text-align: justify;
         margin: 10px 52px;
+    }
 
+    .yellow {
+        font-size: 19px;
+        margin: 0;
+        line-height: 2;
     }
 
     .text {

@@ -776,6 +776,7 @@ cite {
 
 .white {
     color: #f8f8f8;
+    text-align: center!important;
 }
 
 .portfolio-thumb {
@@ -1010,6 +1011,14 @@ cite {
     .text {
         padding: 0;
         margin: 10px 52px 10px 52px;
+    }
+
+    .white {
+        text-align: justify!important;
+    }
+
+    .agence {
+        text-align: center!important;
     }
 
    

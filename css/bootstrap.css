@@ -1666,7 +1666,8 @@ mark {
 }
 
 .text-justify {
-    text-align: justify
+    text-align: justify;
+    font-size: 22px
 }
 
 .text-nowrap {

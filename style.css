@@ -31,7 +31,7 @@ h6 {
 
 h2 {
     color: white!important;
-    font-weight: 400!important;
+    font-weight: bold!important;
 }
  .color-black {
     color: black!important;
@@ -889,7 +889,7 @@ cite {
         font-size: 30px;
     }
     .text-justify {
-        font-size: 20px;
+        font-size: 21px;
     }
     
     .text-center {

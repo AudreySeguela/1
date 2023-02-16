@@ -288,7 +288,7 @@ h2 {
 }
 
 #bloc-1-hero h1 {
-    font-size: 32px;
+    font-size: 40px;
 }
 
 .navbar {
@@ -983,6 +983,10 @@ cite {
     #disqus_thread {
         padding-left: 10px!important;
         padding-right: 10px!important;
+    }
+
+    #bloc-1-hero h1 {
+        font-size: 30px;
     }
 
     h1 {
